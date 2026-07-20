@@ -6,3 +6,15 @@
 	path = credit-management
 	url = git@git.vauxoo.com:vauxoo/credit-management.git
 	branch = 19.0
+[submodule "soriana"]
+	path = soriana
+	url = git@git.vauxoo.com:addendas/soriana.git
+	branch = 19.0
+[submodule "fresko"]
+	path = fresko
+	url = git@git.vauxoo.com:addendas/fresko.git
+	branch = 19.0
+[submodule "l10n-mx-edi-factoring"]
+	path = l10n-mx-edi-factoring
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-factoring.git
+	branch = 19.0
