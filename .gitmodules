@@ -18,3 +18,11 @@
 	path = l10n-mx-edi-factoring
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-factoring.git
 	branch = 19.0
+[submodule "account-payment-split"]
+	path = account-payment-split
+	url = git@git.vauxoo.com:vauxoo/account-payment-split.git
+	branch = 19.0
+[submodule "l10n-mx-edi-payment-split"]
+	path = l10n-mx-edi-payment-split
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-payment-split.git
+	branch = 19.0
